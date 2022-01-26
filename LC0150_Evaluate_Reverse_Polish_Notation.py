@@ -79,3 +79,4 @@ if __name__ == '__main__':
     tokens = ["4","-2","/","2","-3","-","-"]
     result = Solution().evalRPN(tokens)
     print(result)
+
