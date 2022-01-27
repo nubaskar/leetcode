@@ -50,3 +50,5 @@ class Solution:
             else:
                 hashArr[nums[i]] = i    
 
+if __name__ == "__main__":
+    print("Hello")
